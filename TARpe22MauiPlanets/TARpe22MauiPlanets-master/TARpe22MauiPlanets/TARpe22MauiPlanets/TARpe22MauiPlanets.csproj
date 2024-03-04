@@ -50,10 +50,24 @@
 	</ItemGroup>
 
 	<ItemGroup>
+	  <MauiImage Remove="Resources\Images\ceres.png" />
+	  <MauiImage Remove="Resources\Images\eris.png" />
+	  <MauiImage Remove="Resources\Images\haumea.png" />
+	  <MauiImage Remove="Resources\Images\pluto.png" />
+	</ItemGroup>
+
+	<ItemGroup>
 	  <None Remove="Resources\Images\ceres.png" />
 	  <None Remove="Resources\Images\eris.png" />
 	  <None Remove="Resources\Images\haumea.png" />
 	  <None Remove="Resources\Images\pluto.png" />
+	</ItemGroup>
+
+	<ItemGroup>
+	  <Content Include="Resources\Images\ceres.png" />
+	  <Content Include="Resources\Images\eris.png" />
+	  <Content Include="Resources\Images\haumea.png" />
+	  <Content Include="Resources\Images\pluto.png" />
 	</ItemGroup>
 
 	<ItemGroup>

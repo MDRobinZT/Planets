@@ -11,7 +11,7 @@ namespace TARpe22MauiPlanets.Services
             {
                 Name = "Mercury",
                 Subtitle = "  The smallest planet",
-                HeroImage = "mercury.png",
+                HeroImage = "mercury.svg",
                 Description = "Mercury is the smallest planet in the Solar " +
                 "System and the closest to the Sun. Its orbit around the Sun takes " +
                 "87.97 Earth days, the shortest of all the Sun's planets. " +
@@ -35,7 +35,7 @@ namespace TARpe22MauiPlanets.Services
             {
                 Name = "Venus",
                 Subtitle = "  The pressure cooker",
-                HeroImage = "venus.png",
+                HeroImage = "venus.svg",
                 Description = "Venus is the second planet from the Sun. It is sometimes " +
                 "called Earth's \"sister\" or \"twin\" planet as it is almost as large " +
                 "and has a similar composition. As an interior planet to Earth, Venus " +
@@ -59,7 +59,7 @@ namespace TARpe22MauiPlanets.Services
             {
                 Name = "Earth",
                 Subtitle = "  The cradle of life",
-                HeroImage = "earth.png",
+                HeroImage = "earth.svg",
                 Description = "Earth is the third planet from the Sun and the " +
                 "only place known in the universe where life has originated and " +
                 "found habitability. While Earth may not contain the largest " +
@@ -83,7 +83,7 @@ namespace TARpe22MauiPlanets.Services
             {
                 Name = " Mars",
                 Subtitle = "  The iron planet",
-                HeroImage = "mars.png",
+                HeroImage = "mars.svg",
                 Description = "Mars is the fourth planet from the Sun – a dusty, " +
                             "cold, desert world with a very thin atmosphere. " +
                             "Mars is also a dynamic planet with seasons, polar " +
@@ -103,7 +103,7 @@ namespace TARpe22MauiPlanets.Services
             {
                 Name = " Jupiter",
                 Subtitle = "  The gas giant",
-                HeroImage = "jupiter.png",
+                HeroImage = "jupiter.svg",
                 Description = "Jupiter is the fifth planet from the Sun and " +
                 "the largest in the Solar System. It is a gas giant with " +
                 "a mass more than two and a half times that of all the " +
@@ -123,7 +123,7 @@ namespace TARpe22MauiPlanets.Services
             {
                 Name = " Saturn",
                 Subtitle = "  The ring planet",
-                HeroImage = "saturn.png",
+                HeroImage = "saturn.svg",
                 Description = "Saturn is the sixth planet from the Sun and " +
                             "the second-largest in the Solar System, after " +
                             "Jupiter. It is a gas giant with an average " +
@@ -145,7 +145,7 @@ namespace TARpe22MauiPlanets.Services
             {
                 Name = " Uranus",
                 Subtitle = "  The Herschel planet",
-                HeroImage = "uranus.png",
+                HeroImage = "uranus.svg",
                 Description = "Uranus is the seventh planet from the Sun. " +
                 "It is named after Greek sky deity Uranus (Caelus), who in " +
                 "Greek mythology is the father of Cronus (Saturn), a grandfather " +
@@ -166,7 +166,7 @@ namespace TARpe22MauiPlanets.Services
             {
                 Name = " Neptune",
                 Subtitle = "  The god of the sea",
-                HeroImage = "neptune.png",
+                HeroImage = "neptune.svg",
                 Description = "Neptune is the eighth planet from the Sun and " +
                 "the farthest known planet in the Solar System. It is the " +
                 "fourth-largest planet in the Solar System by diameter, the " +
